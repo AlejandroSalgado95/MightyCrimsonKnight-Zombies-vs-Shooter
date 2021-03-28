@@ -1,2 +1,4 @@
-# MightyCrimsonKnight-Zombies-vs-Shooter
-MigthyCrimsonKnight es un juego desarrollado para Android pensado en la experiencia audiovisual del usuario (sordo o no), permitiéndole cambiar el "feedback" de los elementos en el juego de sonoros a visuales (y viceversa) a través de un simple botón ubicado en el menú del juego. Zombies &amp; Shooter es un juego desarrollado para PC basado en un top down shooter sencillo. 
+# MightyCrimsonKnight-ZombiesVsShooter
+Utiliza la version 5.1.1 de Unity para abrir este proyecto
+
+
